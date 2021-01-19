@@ -1,0 +1,27 @@
+
+.html,body {
+
+    background-image: url('bg2.png');
+    background-size: cover;
+
+}.head_line {
+
+       display: flex;
+       color: rgb(150, 40, 200);
+       justify-content: center;
+       background-color: black;
+
+   }
+
+   .origami_img{
+       display: flex;
+       justify-content: center;
+       flex-direction: row;
+       flex-wrap: wrap;
+
+   }
+.H4{ 
+
+ background-color: red;
+
+}

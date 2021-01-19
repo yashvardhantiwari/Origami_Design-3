@@ -1,0 +1,20 @@
+.html,body {
+
+background-image: url('bg3.jpg');
+background-size: cover;
+
+}
+.head_line {
+
+    background-color: black;
+    color:white;
+
+}
+.head_img {
+
+   
+    display: flex;
+    justify-content: center;
+    border-radius: 500px;
+
+}
